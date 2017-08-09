@@ -1,2 +1,2 @@
-#Fibonacci sequence
+# Fibonacci sequence
 find n-th fibonacci number
